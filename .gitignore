@@ -1,0 +1,14 @@
+# Unity-specific files and directories to ignore
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Pp]ackages/
+/[Uu]ser[Ss]ettings/
+
+
+# Visual Studio / MonoDevelop specific files
+.vsconfig/
+test6.sln/
+
+
+

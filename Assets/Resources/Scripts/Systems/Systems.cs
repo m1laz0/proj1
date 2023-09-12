@@ -1,0 +1,1 @@
+/// Having all system-related code in a single script can be straightforward, especially if you have a small number of systems.
